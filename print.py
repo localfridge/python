@@ -11,5 +11,3 @@ print("mine was good \n but i woke up too early")
 #how to write strings and numbers
 print("i woke up at",6,"am")
 
-
-
